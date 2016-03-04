@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+#send {
+	font-family: Avenir-Heavy;
+	font-size: 36px;
+	color: #FFFFFF;
+}
+#logo {
+	font-size: 6.5vw;
+	color: #000000;
+	font-family: 'EB Garamond', serif;
+	font-decoration: underline;
+	width: 50%;
+	display:block;
+	margin: 2% 10%;
+}
+.band {
+	display:block;
+	background: black;
+	margin:auto;
+}
+.artist {
+	font-family: Avenir-Heavy;
+	color: #4B4A4A;
+	display:block;
+	margin:auto;
+	font-size:4.5vw;
+}
+.venue {
+	font-family: Avenir-Medium;
+	font-size: 15px;
+	color: #A3A3A3;
+}
+.venue {
+	font-family: Avenir-Heavy;
+	font-size: 15px;
+	color: #4B4A4A;
+}
+#tagline {
+	font-family: Avenir-Book;
+	font-size: 20px;
+	color: #000000;
+}
+#line {
+	border: 5px solid #000000;
+}
